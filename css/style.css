@@ -1,0 +1,33 @@
+*{box-sizing: border-box;}
+
+body{
+    margin: 0;
+    padding: 0;
+    background: lightcyan;
+    text-align: center;
+}
+
+h1{
+    color: grey;
+    font-size: 50px;
+    text-transform: uppercase;
+}
+
+.form-header{
+    color: gray;
+    text-transform: uppercase;
+}
+
+.littleBox{
+    margin: 0 auto;
+    padding: 15px;
+    width: 80%;
+    border: 3px solid gray;
+    border-radius: 5px;
+    background: white;
+}
+
+.display-text{
+    font-size: 30px;
+    font-weight: 400;
+}
